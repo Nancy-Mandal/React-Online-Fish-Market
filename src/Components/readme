@@ -1,0 +1,4 @@
+//props - similar to attributes of HTML tags......they load data into our component
+//state - object that lives inside of a component that stores data of that component or of children
+//how does anything go anywhere - props
+//from 16 - updating our order state
